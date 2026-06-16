@@ -1,2 +1,28 @@
-# 6388e7d7-maritime-shipping-business-d
-Tired of juggling spreadsheets, emails, and manual logs to track your shipping operations? The Maritime &amp; Shipping Business Dashboard and KPI Tracker Notion Template brings every critical metric into one real-time command center.  This template eliminates data silos by unifying voyage performance, fleet utilization, financial KPIs, and compliance d
+# Maritime & Shipping Business Dashboard and KPI Tracker Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/fZu28rh1B0bWbRSdI0d0k0k)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/fZu28rh1B0bWbRSdI0d0k0k)
+
